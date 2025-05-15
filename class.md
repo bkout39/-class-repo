@@ -1,4 +1,4 @@
-Marcos
-California
+Katherine
+Germany
 Meta Front-End course
 
